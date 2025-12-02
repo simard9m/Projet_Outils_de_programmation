@@ -25,7 +25,7 @@ Le projet a été réalisé avec un environnement **conda**, mais il est aussi p
 
 
    ```bash
-   conda activate tp2_Emile_xavier
+   conda activate eda_env
 L'environnement est maintenant prêt à être utilisé.
 
 
