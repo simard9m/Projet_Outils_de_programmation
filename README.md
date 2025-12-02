@@ -32,7 +32,7 @@ L'environnement est maintenant prêt à être utilisé.
 ### 1.2. Installation avec pip
 
 
-1. Créer et activer un environnement virtuel (venv, conda, etc.).
+1. Créer et activer un environnement virtuel en python 3.11(venv, conda, etc.).
 2. Se placer dans le dossier `install`.
 3. Installer les dépendances :
 
