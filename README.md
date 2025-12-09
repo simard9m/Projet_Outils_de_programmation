@@ -9,7 +9,7 @@
 
 ## Accès à l’application Streamlit
 
-L’application Streamlit associée au projet est accessible en ligne à l’adresse suivante :
+L’application Streamlit associée au projet est accessible en ligne à l’adresse suivante :  
 https://projetoutilsdeprogrammation-teamexo.streamlit.app/
 
 ---
