@@ -15,7 +15,7 @@ st.set_page_config(
 sns.set_theme(style="whitegrid")
 pd.set_option("display.max_columns", None)
 
-DATA_PATH = "../netflix_titles.csv"
+DATA_PATH = "netflix_titles.csv"
 
 @st.cache_data
 def load_data(uploaded_file=None, csv_path: str = DATA_PATH) -> pd.DataFrame:
