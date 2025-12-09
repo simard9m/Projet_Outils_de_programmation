@@ -3,9 +3,6 @@ pandas
 numpy
 seaborn
 matplotlib
-plotlystreamlit
-pandas
-numpy
-seaborn
-matplotlib
 plotly
+wordcloud
+scikit-learn
